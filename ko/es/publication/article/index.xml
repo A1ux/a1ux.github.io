@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>article on Hugo Zzo Theme</title>
+    <title>article on A1ux Blog</title>
     <link>http://a1ux.github.io/ko/es/publication/article/</link>
-    <description>Recent content in article on Hugo Zzo Theme</description>
+    <description>Recent content in article on A1ux Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>alux.hash@gmail.com (A1ux)</managingEditor>
+    <webMaster>alux.hash@gmail.com (A1ux)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Good Title</title>
         <link>http://a1ux.github.io/ko/es/publication/article/article_any_folder_name_1/</link>
         <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         <atom:modified>Fri, 01 Jun 2018 00:00:00 +0000</atom:modified>
         <guid>http://a1ux.github.io/ko/es/publication/article/article_any_folder_name_1/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         
         
         

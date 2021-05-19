@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Hugo Zzo Theme</title>
+    <title>A1ux Blog</title>
     <link>http://a1ux.github.io/ko/es/</link>
-    <description>Recent content on Hugo Zzo Theme</description>
+    <description>Recent content on A1ux Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>alux.hash@gmail.com (A1ux)</managingEditor>
+    <webMaster>alux.hash@gmail.com (A1ux)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Posts</title>
         <link>http://a1ux.github.io/ko/es/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         
         <guid>http://a1ux.github.io/ko/es/posts/</guid>
         <description></description>
@@ -48,12 +48,12 @@
         <title>Showcase overview</title>
         <link>http://a1ux.github.io/ko/es/showcase/</link>
         <pubDate>Sun, 19 Jan 2020 15:43:38 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         <atom:modified>Sun, 19 Jan 2020 15:43:38 +0900</atom:modified>
         <guid>http://a1ux.github.io/ko/es/showcase/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         
         
         
@@ -66,12 +66,12 @@
         <title>Cartoon</title>
         <link>http://a1ux.github.io/ko/es/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://a1ux.github.io/ko/es/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         <media:content url="http://a1ux.github.ioimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -84,12 +84,12 @@
         <title>Photo</title>
         <link>http://a1ux.github.io/ko/es/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
         <guid>http://a1ux.github.io/ko/es/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         <media:content url="http://a1ux.github.ioimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
@@ -102,12 +102,12 @@
         <title>Presentations</title>
         <link>http://a1ux.github.io/ko/es/presentation/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         
         <guid>http://a1ux.github.io/ko/es/presentation/</guid>
         <description></description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         
         
         
@@ -120,12 +120,12 @@
         <title>Archive</title>
         <link>http://a1ux.github.io/ko/es/archive/</link>
         <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
         <guid>http://a1ux.github.io/ko/es/archive/</guid>
         <description>archive page</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         
         
         
@@ -138,14 +138,14 @@
         <title>About</title>
         <link>http://a1ux.github.io/ko/es/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
         <guid>http://a1ux.github.io/ko/es/about/</guid>
         <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
         
-        <dc:creator>zzossig</dc:creator>
+        <dc:creator>A1ux</dc:creator>
         
         
         

@@ -6,13 +6,13 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>index on Hugo Zzo Theme</title>
+    <title>index on A1ux Blog</title>
     <link>http://a1ux.github.io/ko/tags/index/</link>
-    <description>Recent content in index on Hugo Zzo Theme</description>
+    <description>Recent content in index on A1ux Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>alux.hash@gmail.com (A1ux)</managingEditor>
+    <webMaster>alux.hash@gmail.com (A1ux)</webMaster>
     <copyright>©2021, All Rights Reserved</copyright>
     
         <atom:link href="http://a1ux.github.io/ko/tags/index/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
         <title>Posts</title>
         <link>http://a1ux.github.io/ko/es/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         
         <guid>http://a1ux.github.io/ko/es/posts/</guid>
         <description></description>
@@ -47,7 +47,7 @@
         <title>Posts</title>
         <link>http://a1ux.github.io/ko/ko/posts/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>alux.hash@gmail.com (A1ux)</author>
         
         <guid>http://a1ux.github.io/ko/ko/posts/</guid>
         <description></description>
