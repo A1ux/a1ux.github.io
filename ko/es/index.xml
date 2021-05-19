@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo Zzo Theme</title>
-    <link>http://example.org/ko/es/</link>
+    <link>http://a1ux.github.io/ko/es/</link>
     <description>Recent content on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,17 +16,17 @@
     <copyright>©2021, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 25 Jan 2020 06:40:51 +0900</lastBuildDate>
     
-        <atom:link href="http://example.org/ko/es/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://a1ux.github.io/ko/es/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>http://example.org/ko/es/posts/</link>
+        <link>http://a1ux.github.io/ko/es/posts/</link>
         <pubDate>Sat, 25 Jan 2020 06:40:51 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
-        <guid>http://example.org/ko/es/posts/</guid>
+        <guid>http://a1ux.github.io/ko/es/posts/</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>
@@ -46,11 +46,11 @@
       
       <item>
         <title>Showcase overview</title>
-        <link>http://example.org/ko/es/showcase/</link>
+        <link>http://a1ux.github.io/ko/es/showcase/</link>
         <pubDate>Sun, 19 Jan 2020 15:43:38 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sun, 19 Jan 2020 15:43:38 +0900</atom:modified>
-        <guid>http://example.org/ko/es/showcase/</guid>
+        <guid>http://a1ux.github.io/ko/es/showcase/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -64,15 +64,15 @@
       
       <item>
         <title>Cartoon</title>
-        <link>http://example.org/ko/es/gallery/cartoon/</link>
+        <link>http://a1ux.github.io/ko/es/gallery/cartoon/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>http://example.org/ko/es/gallery/cartoon/</guid>
+        <guid>http://a1ux.github.io/ko/es/gallery/cartoon/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://example.orgimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://a1ux.github.ioimages/feature2/bam.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -82,15 +82,15 @@
       
       <item>
         <title>Photo</title>
-        <link>http://example.org/ko/es/gallery/photo/</link>
+        <link>http://a1ux.github.io/ko/es/gallery/photo/</link>
         <pubDate>Thu, 31 Oct 2019 10:20:16 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 31 Oct 2019 10:20:16 +0900</atom:modified>
-        <guid>http://example.org/ko/es/gallery/photo/</guid>
+        <guid>http://a1ux.github.io/ko/es/gallery/photo/</guid>
         <description>Sample images from Pixabay</description>
         
         <dc:creator>zzossig</dc:creator>
-        <media:content url="http://example.orgimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="http://a1ux.github.ioimages/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -100,11 +100,11 @@
       
       <item>
         <title>Presentations</title>
-        <link>http://example.org/ko/es/presentation/</link>
+        <link>http://a1ux.github.io/ko/es/presentation/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         
-        <guid>http://example.org/ko/es/presentation/</guid>
+        <guid>http://a1ux.github.io/ko/es/presentation/</guid>
         <description></description>
         
         <dc:creator>zzossig</dc:creator>
@@ -118,11 +118,11 @@
       
       <item>
         <title>Archive</title>
-        <link>http://example.org/ko/es/archive/</link>
+        <link>http://a1ux.github.io/ko/es/archive/</link>
         <pubDate>Sat, 19 Oct 2019 11:44:14 +0900</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Sat, 19 Oct 2019 11:44:14 +0900</atom:modified>
-        <guid>http://example.org/ko/es/archive/</guid>
+        <guid>http://a1ux.github.io/ko/es/archive/</guid>
         <description>archive page</description>
         
         <dc:creator>zzossig</dc:creator>
@@ -136,11 +136,11 @@
       
       <item>
         <title>About</title>
-        <link>http://example.org/ko/es/about/</link>
+        <link>http://a1ux.github.io/ko/es/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         <author>zzossig@gmail.com (zzossig)</author>
         <atom:modified>Thu, 28 Feb 2019 00:00:00 +0000</atom:modified>
-        <guid>http://example.org/ko/es/about/</guid>
+        <guid>http://a1ux.github.io/ko/es/about/</guid>
         <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
