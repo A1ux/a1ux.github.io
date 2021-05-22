@@ -8,11 +8,8 @@
     <loc>http://a1ux.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url><url>
-    <loc>http://a1ux.github.io/en/about/</loc>
-    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://a1ux.github.io/en/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -23,6 +20,91 @@
                 hreflang="en"
                 href="http://a1ux.github.io/en/"
                 />
+  </url><url>
+    <loc>http://a1ux.github.io/en/posts/metrica1/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/posts/metrica2/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/posts/metrica3/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/posts/metrica4/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/posts/metrica5/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/categories/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://a1ux.github.io/ko/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://a1ux.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>http://a1ux.github.io/en/categories/ingenieria/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/tags/metricas/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/posts/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/series/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://a1ux.github.io/ko/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://a1ux.github.io/en/series/"
+                />
+  </url><url>
+    <loc>http://a1ux.github.io/en/tags/software/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/categories/software/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+  </url><url>
+    <loc>http://a1ux.github.io/en/tags/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://a1ux.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://a1ux.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>http://a1ux.github.io/en/series/themes-guide/</loc>
+    <lastmod>2021-05-21T12:00:06+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://a1ux.github.io/ko/series/themes-guide/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://a1ux.github.io/en/series/themes-guide/"
+                />
+  </url><url>
+    <loc>http://a1ux.github.io/en/about/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://a1ux.github.io/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
@@ -35,9 +117,6 @@
   </url><url>
     <loc>http://a1ux.github.io/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url><url>
-    <loc>http://a1ux.github.io/en/posts/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
     <loc>http://a1ux.github.io/en/tags/shortcode/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
@@ -55,37 +134,11 @@
     <loc>http://a1ux.github.io/en/posts/shortcodes/</loc>
     <lastmod>2020-01-25T06:40:51+09:00</lastmod>
   </url><url>
-    <loc>http://a1ux.github.io/en/tags/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://a1ux.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://a1ux.github.io/en/tags/"
-                />
-  </url><url>
     <loc>http://a1ux.github.io/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url><url>
     <loc>http://a1ux.github.io/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
-  </url><url>
-    <loc>http://a1ux.github.io/en/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://a1ux.github.io/ko/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://a1ux.github.io/en/categories/"
-                />
   </url><url>
     <loc>http://a1ux.github.io/en/tags/css/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
@@ -126,24 +179,8 @@
                 href="http://a1ux.github.io/en/tags/markdown/"
                 />
   </url><url>
-    <loc>http://a1ux.github.io/en/posts/markdown-syntax2/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
     <loc>http://a1ux.github.io/en/posts/markdown-syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-  </url><url>
-    <loc>http://a1ux.github.io/en/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://a1ux.github.io/ko/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://a1ux.github.io/en/series/"
-                />
   </url><url>
     <loc>http://a1ux.github.io/en/categories/syntax/</loc>
     <lastmod>2019-12-20T12:00:06+09:00</lastmod>
@@ -182,19 +219,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://a1ux.github.io/en/categories/themes/"
-                />
-  </url><url>
-    <loc>http://a1ux.github.io/en/series/themes-guide/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://a1ux.github.io/ko/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://a1ux.github.io/en/series/themes-guide/"
                 />
   </url><url>
     <loc>http://a1ux.github.io/en/tags/privacy/</loc>

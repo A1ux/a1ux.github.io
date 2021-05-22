@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>metricas on A1ux Blog</title>
+    <link>http://a1ux.github.io/en/tags/metricas/</link>
+    <description>Recent content in metricas on A1ux Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>alux.hash@gmail.com (A1ux)</managingEditor>
+    <webMaster>alux.hash@gmail.com (A1ux)</webMaster>
+    <copyright>©2021, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 21 May 2021 12:00:06 +0600</lastBuildDate>
+    
+        <atom:link href="http://a1ux.github.io/en/tags/metricas/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>1 Metrica de UX</title>
+        <link>http://a1ux.github.io/en/posts/metrica1/</link>
+        <pubDate>Fri, 21 May 2021 12:00:06 +0600</pubDate>
+        <author>alux.hash@gmail.com (A1ux)</author>
+        <atom:modified>Fri, 21 May 2021 12:00:06 +0600</atom:modified>
+        <guid>http://a1ux.github.io/en/posts/metrica1/</guid>
+        <description>La experiencia de usuario o user experience (frecuentemente abreviada como UX) es uno de los factores que más influyen en el éxito o fracaso de un proyecto web. Por ello, saber cómo medir una estrategia UX es fundamental.
+Antes de nada, deberíamos explicar en qué consiste la UX:
+La experiencia de usuario es un atributo que mide la facilidad con la que los usuarios comprenden un sitio web, navegan de forma intuitiva por sus páginas y realizan en él las acciones que esperamos con facilidad y rapidez.</description>
+        
+        <dc:creator>A1ux</dc:creator>
+        <media:content url="http://a1ux.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>metricas</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>ingenieria</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>2 Metrica de Usabilidad</title>
+        <link>http://a1ux.github.io/en/posts/metrica2/</link>
+        <pubDate>Fri, 21 May 2021 12:00:06 +0600</pubDate>
+        <author>alux.hash@gmail.com (A1ux)</author>
+        <atom:modified>Fri, 21 May 2021 12:00:06 +0600</atom:modified>
+        <guid>http://a1ux.github.io/en/posts/metrica2/</guid>
+        <description>El concepto de usabilidad de un sistema considera que hay tres dimensiones principales que pueden medirse: eficacia, eficiencia y satisfacción. Por otra parte, la definición de experiencia de usuario señala que ésta depende de las percepciones y respuestas de los usuarios antes, durante y después del uso, lo cual amplía el abanico de variables psicológicas y comportamentales que pueden medirse. A continuación mostramos algunos ejemplos de las métricas de usabilidad y UX más básicas [4] [5].</description>
+        
+        <dc:creator>A1ux</dc:creator>
+        <media:content url="http://a1ux.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>metricas</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>ingenieria</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>3 Metrica de Defectos tecnicos (Deuda Tecnica)</title>
+        <link>http://a1ux.github.io/en/posts/metrica3/</link>
+        <pubDate>Fri, 21 May 2021 12:00:06 +0600</pubDate>
+        <author>alux.hash@gmail.com (A1ux)</author>
+        <atom:modified>Fri, 21 May 2021 12:00:06 +0600</atom:modified>
+        <guid>http://a1ux.github.io/en/posts/metrica3/</guid>
+        <description>El concepto de deuda técnica es una analogía para poder explicar algo tan complejo como la necesidad de hacer “refactoring” o de por qué invertir en la “calidad de código”. Cuando se está codificando bajo presión y con la necesidad de entregar algo rápido, muchas veces se dejan de lado algunas buenas prácticas, pruebas unitarias, etc. Al hacer esto se dice que se está adquiriendo una deuda con el software: hoy lo entrego sin haber hecho todas esas prácticas de calidad, pero me quedo con la deuda de hacerlas en algún momento (cuando tenga tiempo).</description>
+        
+        <dc:creator>A1ux</dc:creator>
+        <media:content url="http://a1ux.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>metricas</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>ingenieria</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>4 Metrica de Defectos (Densidad de Defectos)</title>
+        <link>http://a1ux.github.io/en/posts/metrica4/</link>
+        <pubDate>Fri, 21 May 2021 12:00:06 +0600</pubDate>
+        <author>alux.hash@gmail.com (A1ux)</author>
+        <atom:modified>Fri, 21 May 2021 12:00:06 +0600</atom:modified>
+        <guid>http://a1ux.github.io/en/posts/metrica4/</guid>
+        <description>Una simple frase cómo la anterior define una problemática en el desarrollo de software de algunas empresa, la falta de un ciclo de desarrollo definido y de la importancia de que todas las etapas sean consideradas indispensables como la propia codificación.
+Es muy común asumir que los programadores pueden hacer su trabajo con calidad al momento de hacer la codificación, lo cual aún después de muchos años de experiencia, puede ser riesgoso ya que la calidad de la programación depende de muchos factores humanos (estrés, enfermedades, problemas familiares, cansancio, etc.</description>
+        
+        <dc:creator>A1ux</dc:creator>
+        <media:content url="http://a1ux.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>metricas</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>ingenieria</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>5 Metrica de Usabilidad (NPS)</title>
+        <link>http://a1ux.github.io/en/posts/metrica5/</link>
+        <pubDate>Fri, 21 May 2021 12:00:06 +0600</pubDate>
+        <author>alux.hash@gmail.com (A1ux)</author>
+        <atom:modified>Fri, 21 May 2021 12:00:06 +0600</atom:modified>
+        <guid>http://a1ux.github.io/en/posts/metrica5/</guid>
+        <description>Net Promoter Score (NPS) es una métrica elaborada por primera vez en 1993 por Fred Reichheld. Y posteriormente adoptada por Bain &amp;amp; Company y Satmetrix en 2003 como una manera de medir la experiencia del cliente y predecir el crecimiento del negocio.
+Cálculo NPS Se calcula el NPS utilizando la respuesta a una pregunta clave, utilizando una escala de 0 a 10.
+Los encuestados se agrupan en 3 grupos:
+ Promotores (9-10).</description>
+        
+        <dc:creator>A1ux</dc:creator>
+        <media:content url="http://a1ux.github.ioimages/feature1/markdown.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>metricas</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>ingenieria</category>
+            
+          
+            
+              <category>software</category>
+            
+          
+        
+        
+          
+            
+              <category>Themes Guide</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
