@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://www.alux.cc"
+baseurl = "https://blog.alux.cc"
 languageCode = "en-us"
 title = "A1ux Cyber Security Blog"
 
