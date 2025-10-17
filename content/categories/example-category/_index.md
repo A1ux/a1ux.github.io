@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Active Directory
+description: Active Directory 
 image:
 
 # Badge style
