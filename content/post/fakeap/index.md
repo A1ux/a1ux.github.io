@@ -1,5 +1,5 @@
 ---
-title: Fake AP + Evilginx: Capturing credentials and sessions in a fake Wifi
+title: Fake AP + Evilginx Capturing credentials and sessions in a fake Wifi
 description: Welcome to Hugo Theme Stack
 slug: fakeap
 date: 2025-10-16 22:15:00+0000
